@@ -1,0 +1,6 @@
+{
+  "name": "Gallery Pro",
+  "description": "Production-grade native Android gallery application with MediaStore discovery, full-screen viewer, albums, favorites, duplicate finder, and storage analyzer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
